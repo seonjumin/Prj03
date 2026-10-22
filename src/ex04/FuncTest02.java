@@ -19,6 +19,7 @@ public class FuncTest02 {
 		process();
 		calcAge(1995);
 		output();
+		System.out.println("End....");
 
 	}
 
